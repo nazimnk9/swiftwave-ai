@@ -2,7 +2,7 @@ import ModuleCard from "./module-card";
 
 const ModulesSection = () => {
   return (
-    <section className="my-8 rounded-md bg-background px-4 py-12 md:px-8 lg:my-16 lg:px-16">
+    <section className="my-16 rounded-md bg-background px-4 py-12 md:px-8 lg:my-16 lg:px-16">
       <h2 className="mb-10 bg-gradient-to-r from-[#9e7f29] via-[#ffe185] to-[#9e7f29] bg-clip-text text-4xl font-bold text-transparent [background-size:100%_100%]">
         Our AI Modules
       </h2>
