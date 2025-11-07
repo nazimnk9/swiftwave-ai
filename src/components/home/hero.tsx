@@ -49,7 +49,7 @@ export default function HeroSection() {
 
 const slides = [
   {
-    title: "SWIFTWAVE.AI Platform\nMeet Your Recruiter\nThat Works 24/7",
+    title: "Swiftwave.AI Platform\nMeet Your Recruiter\nThat Works 24/7",
     description:
       "Consultant sleeping → Al engine working → Formatted CV, ID, and qualifications stream directly into your CRM!",
     buttonText1: "Start Free Trial",
@@ -58,7 +58,7 @@ const slides = [
     imageAlt: "AI Professional",
   },
   {
-    title: "SWIFTWAVE.AI Platform\nSmart AI Automation\nfor Recruitment & HR",
+    title: "Swiftwave.AI Platform\nSmart AI Automation\nfor Recruitment & HR",
     description:
       "Achieve 50% cost savings and 50% business growth through our intelligent automation platform.",
     buttonText1: "Start Free Trial",
@@ -67,7 +67,7 @@ const slides = [
     imageAlt: "AI Professional",
   },
   {
-    title: "Boost Your\nBusiness with\nSWIFTWAVE.AI Modules",
+    title: "Boost Your\nBusiness with\nSwiftwave.AI Modules",
     description:
       "Automate Repetitive Tasks. Increase Profitability. Ensure 100% Compliance.",
     buttonText1: "Start Free Trial",

@@ -11,7 +11,7 @@ const AIModulesSection = () => {
   return (
     <section
       ref={ref}
-      className="relative my-4 overflow-hidden rounded-md px-3 py-8 sm:my-6 sm:px-4 sm:py-10 md:my-8 md:px-8 md:py-12 lg:my-16 lg:px-16"
+      className="relative my-32 overflow-hidden rounded-md px-3 py-8 sm:my-6 sm:px-4 sm:py-10 md:my-8 md:px-8 md:py-12 lg:my-16 lg:px-16"
     >
       {/* Video Background */}
       <video
@@ -117,7 +117,7 @@ const AIModulesSection = () => {
                 Integration & Compatibility
               </h3>
               <p className="max-w-3xl text-center text-base leading-relaxed text-text sm:text-lg">
-                SWIFTWAVE.AI is already live with JobAdder. Future development can be
+                Swiftwave.AI is already live with JobAdder. Future development can be
                 delivered to client requirements, enabling seamless API
                 integration with leading CRMs, recruitment and HR software
                 systems.

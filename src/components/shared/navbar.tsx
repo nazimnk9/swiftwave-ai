@@ -327,7 +327,7 @@ export default function Navbar() {
           <Link href="/" onClick={handleNavClick}>
             <Image 
               src="/logo.png" 
-              alt="SWIFTWAVE.AI Logo" 
+              alt="Swiftwave.AI Logo" 
               width={140} 
               height={140} 
               className="md:w-[140px] md:h-[140px] w-[80px] h-[80px]"

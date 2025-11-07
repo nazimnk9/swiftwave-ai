@@ -24,7 +24,7 @@ const Footer = () => {
                 />
               </h3>
               <p className="mt-4 text-lg text-text/80">
-                Our mission at SWIFTWAVE.AI is to revolutionise recruitment and HR
+                Our mission at Swiftwave.AI is to revolutionise recruitment and HR
                 through smart, affordable AI automation that reduces costs by
                 50%, accelerates hiring, and guarantees 100% compliance.
               </p>
@@ -140,7 +140,7 @@ const Footer = () => {
       </div>
       <div className="mt-16 border-t border-text/10">
         <p className="container mx-auto px-6 py-6 text-center text-sm text-text/60">
-          Copyright © {new Date().getFullYear()}, SWIFTWAVE.AI. All rights reserved.
+          Copyright © {new Date().getFullYear()}, Swiftwave.AI. All rights reserved.
         </p>
       </div>
     </footer>

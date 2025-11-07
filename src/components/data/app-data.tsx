@@ -22,7 +22,7 @@ export const appData = [
     },
     steps: {
       headingBadge: "Steps",
-      headingTitle: "Use AI WhatsApp Recruiter with Business CRM in SWIFTWAVE.AI CRM",
+      headingTitle: "Use AI WhatsApp Recruiter with Business CRM in Swiftwave.AI CRM",
       items: [
         {
           number: "1",
@@ -146,7 +146,7 @@ export const appData = [
     },
     steps: {
       headingBadge: "Steps",
-      headingTitle: "Use AWR Compliance with Business CRM in SWIFTWAVE.AI CRM",
+      headingTitle: "Use AWR Compliance with Business CRM in Swiftwave.AI CRM",
       items: [
         {
           number: "1",
@@ -259,7 +259,7 @@ export const appData = [
       title: "Collect & Track Candidate Consent",
       highlight: "Automatically",
       description:
-        "Send compliant consent requests from SWIFTWAVE.AI via email, capture YES/NO replies instantly, and maintain an immutable audit trail synced with your Business CRM records.",
+        "Send compliant consent requests from Swiftwave.AI via email, capture YES/NO replies instantly, and maintain an immutable audit trail synced with your Business CRM records.",
       buttons: [
         { label: "How it works", href: "#how-it-works", variant: "primary" },
         { label: "Check Pricing", href: "/pricing", variant: "outline" },
@@ -270,7 +270,7 @@ export const appData = [
     },
     steps: {
       headingBadge: "Steps",
-      headingTitle: "Use AI GDPR with Business CRM in SWIFTWAVE.AI CRM",
+      headingTitle: "Use AI GDPR with Business CRM in Swiftwave.AI CRM",
       items: [
         {
           number: "1",
@@ -396,7 +396,7 @@ export const appData = [
     steps: {
       headingBadge: "Steps",
       headingTitle:
-        "Use AI Phone Call Recruiter with Business CRM in SWIFTWAVE.AI CRM",
+        "Use AI Phone Call Recruiter with Business CRM in Swiftwave.AI CRM",
       items: [
         {
           number: "1",
@@ -521,7 +521,7 @@ export const appData = [
     steps: {
       headingBadge: "Steps",
       headingTitle:
-        "How to use AI CV Formatter with Business CRM in SWIFTWAVE.AI CRM",
+        "How to use AI CV Formatter with Business CRM in Swiftwave.AI CRM",
       items: [
         {
           number: "1",

@@ -8,9 +8,9 @@ import ChatbotButton from "@/components/shared/chatbot-button";
 const sora = Sora({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SWIFTWAVE.AI",
+  title: "Swiftwave.AI",
   description:
-    "SWIFTWAVE.AI is a platform that allows users to create and manage AI applications",
+    "Swiftwave.AI is a platform that allows users to create and manage AI applications",
 };
 
 export default function RootLayout({
