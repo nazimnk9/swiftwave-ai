@@ -77,8 +77,7 @@ const AIModulesSection = () => {
                   <span>
                     <strong>CRM Status</strong>{" "}
                     <span className="text-base">
-                      - Automatically updates from AI WhatsApp Recruiter & AI
-                      Call.
+                      - Automatically updates from AI WhatsApp & SMS Recruiter and AI Call.
                     </span>
                   </span>
                 </li>
