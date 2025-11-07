@@ -9,9 +9,9 @@ export default function Home() {
   return (
     <>
       <HeroSection />
+      <ModulesSection/>
       <AIModulesSection/>
       <BrandShow/>
-      <ModulesSection/>
       <TechnicalRequirementsSection/>
       <NextStepsSection />
     </>
