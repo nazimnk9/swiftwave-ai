@@ -245,7 +245,7 @@ const modules = [
     title: "AI WhatsApp Picture to CRM",
     description:
       "Underneath Send a Picture. Job Done. AI extracts ID and certificates automatically, and files them perfectly in your CRM.",
-    imageSrc: "/apps/AI_WhatsApp_Picture_to_CRM.jpg",
+    imageSrc: "/apps/AI_WhatsApp_Picture_to_CRM.png",
     imageAlt: "AI WhatsApp Picture to CRM Illustration",
     buttonText1: "See More",
     buttonText2: "Pricing",
