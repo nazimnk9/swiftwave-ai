@@ -27,7 +27,7 @@ const ModuleCard = ({
           {title}
         </h3>
         {!commingSoon && (
-          <p className="mb-3 line-clamp-3 text-xs leading-relaxed sm:mb-4 sm:text-sm">
+          <p className="mb-3 text-xs leading-relaxed sm:mb-4 sm:text-sm">
             {description}
           </p>
         )}

@@ -187,9 +187,9 @@ const modules = [
   {
     uid: "AI-Phone-Call-Recruiter",
     tabid: "AIPhoneCallRecruiter",
-    title: "AI Phone Call Recruiter",
+    title: "AI Phone Call",
     description:
-      "When applicants don't respond to WhatsApp, this revolutionary technology calls them directly. If the applicant meets all qualification criteria, they receive a secure link to upload their ID & certificates directly to your CRM system.",
+      "When applicants don’t respond to WhatsApp, our AI automatically calls them, confirms their qualifications, and instantly sends a text to register if they’re eligible.",
     imageSrc: "/apps/ai-telephone-call.png",
     imageAlt: "AI Telephone Call Illustration",
     buttonText1: "See More",
@@ -200,7 +200,7 @@ const modules = [
     tabid: "AIWhatsAppRecruiter",
     title: "AI WhatsApp Recruiter",
     description:
-      "Our seamless automated workflow ensures smooth transitions throughout the entire recruitment journey, from initial candidate selection to onboarding productive employees.",
+      "Recruits 24/7 while you sleep. Our automated workflow streamlines the journey from candidate selection to onboarding — saving recruiters up to 50% of their time.",
     imageSrc: "/apps/ai-whatsapp-chatbot.png",
     imageAlt: "AI WhatsApp Chatbot Illustration",
     buttonText1: "See More",
@@ -211,7 +211,7 @@ const modules = [
     tabid: "AISMSRecruiter",
     title: "AI SMS Recruiter",
     description:
-      "AI messages new applicants instantly, checking skills and right-to-work info. If qualified, it texts a secure link for ID and document upload straight into your CRM 24/7, while you sleep.",
+      "Instantly messages new applicants - Checks skills and right-to-work details - Sends a secure upload link if qualified - Documents flow straight into your CRM - Works 24/7 while you sleep.",
     imageSrc: "/apps/ai_sms.png",
     imageAlt: "AI SMS Recruiter",
     buttonText1: "See More",
@@ -222,7 +222,7 @@ const modules = [
     tabid: "AIClientLeadGeneration",
     title: "AI Client Lead Generation",
     description:
-      "Intelligently identifies new opportunities and rekindles old connections within your CRM. automatically. It sends content, messages, and meeting invites 24/7, warming leads so a human can focus on closing.",
+      "Intelligently identifies new opportunities. Rekindles old connections within your CRM. Sends personalised content and messages. Automatically schedules meeting invites. Warms leads 24/7 while you sleep.",
     imageSrc: "/apps/ai-client-lead-generation.png",
     imageAlt: "AI Client Lead Generation",
     buttonText1: "See More",
@@ -244,7 +244,7 @@ const modules = [
     tabid: "AIWhatsAppPicturetoCRM",
     title: "AI WhatsApp Picture to CRM",
     description:
-      "Underneath Send a Picture. Job Done. AI extracts ID and certificates automatically, and files them perfectly in your CRM.",
+      "Picture received: ID & Quals. AI automatically scans and extracts details. Verifies document accuracy and format. Files everything perfectly in your CRM. Fast, secure, and 24/7 automated.",
     imageSrc: "/apps/AI_WhatsApp_Picture_to_CRM.png",
     imageAlt: "AI WhatsApp Picture to CRM Illustration",
     buttonText1: "See More",
@@ -255,7 +255,7 @@ const modules = [
     tabid: "AICVFormatter",
     title: "AI CV Formatter",
     description:
-      "Automatically remove applicants' contact details, enhance wording for professionalism, and add your company logo. This enables consultants to send polished CVs to companies faster, increasing sales.",
+      "Automatically removes contact details. Enhances wording for professionalism. Adds your company logo and layout. Creates a consistent, branded format. Submit polished CVs fast.",
     imageSrc: "/apps/ai-cv-formatting.png",
     imageAlt: "AI CV Formatting Illustration",
     buttonText1: "See More",
@@ -266,7 +266,7 @@ const modules = [
     tabid: "AIGDPRCompliance",
     title: "AI GDPR Compliance",
     description:
-      "Achieve 100% GDPR compliance with our comprehensive data protection solution. Our AI works around the clock to automatically contact candidates and update your database in accordance with all current regulations.",
+      "Achieve 100% GDPR compliance effortlessly. AI automatically contacts candidates. Updates and cleans your CRM records. Ensures full data protection and accuracy. Works 24/7 to keep you compliant.",
     imageSrc: "/apps/ai-gdpr.png",
     imageAlt: "AI GDPR Illustration",
     buttonText1: "See More",
@@ -275,9 +275,9 @@ const modules = [
   {
     uid: "AI-AWR-Compliance",
     tabid: "AIAWRCompliance",
-    title: "AI AWR Compliance",
+    title: "AI AWR Compliance (UK)",
     description:
-      "Maintain complete Agency Workers Regulations compliance effortlessly. Our intelligent system proactively communicates with companies, ensuring your business remains fully compliant while reducing your administrative burden.",
+      "Maintain complete Agency Workers Regulations compliance effortlessly. Our intelligent system proactively communicates with companies, ensuring your business.",
     imageSrc: "/apps/ai-awr.png",
     imageAlt: "AI AWR Illustration",
     buttonText1: "See More",
