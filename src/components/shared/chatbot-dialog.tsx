@@ -278,7 +278,7 @@ const ChatbotDialog: React.FC<ChatbotDialogProps> = ({ isOpen, onClose }) => {
         <div className="flex-1 overflow-y-auto p-4 space-y-4">
           {messages.length === 0 ? (
             <div className="text-lg font-semibold bg-gradient-to-r from-[#9e7f29] via-[#ffe185] to-[#9e7f29] bg-clip-text text-4xl font-bold text-transparent [background-size:100%_100%] py-8">
-              <p>Welcome! I'm AI Steve. How can I help you today?</p>
+              <p>Welcome! I&apos;m AI Steve. How can I help you today?</p>
             </div>
           ) : (
             <>
