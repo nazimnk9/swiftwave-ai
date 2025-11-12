@@ -143,47 +143,8 @@ interface TabData {
 }
 
 const tabData: TabData = {
-  AIWhatsAppRecruiter: {
-    title: "AI WhatsApp Recruiter",
-    description:
-      "Automate WhatsApp-based recruitment interviews with AI-driven workflows.",
-    plans: [
-      {
-        name: "Starter",
-        price: "$99/Month",
-        limit: "120 WhatsApp Recruit Interviews",
-        description:
-          "For individuals or small teams just getting started with WhatsApp messaging.",
-        features: [
-          "AI sends automated WhatsApp messages to job applicants",
-          "Interview questions generated instantly from your job ad",
-          "Fully automated WhatsApp interview process",
-          "Pre-application link sent to successful applicants",
-          "Change Job Application status automatically based on Interview result.",
-          "Attached ID & qualifications go straight to your CRM",
-          "Option to integrate with AI CV Formatter – saving up to 70% of recruiter admin time",
-        ],
-      },
-      {
-        name: "Growth",
-        price: "$199/Month",
-        limit: "250 WhatsApp Recruit Interviews",
-        description:
-          "Ideal for growing businesses that need more messaging power and automation features.",
-        features: ["All the features of Starter package, with more interviews"],
-      },
-      {
-        name: "Enterprise",
-        price: "Custom Price & Features",
-        cta: "Request a call",
-        description:
-          "Built for high-volume senders and enterprises that demand performance, reliability, and advanced support.",
-      },
-    ],
-  },
-
-  AIPhoneCallRecruiter: {
-    title: "AI Phone Call Recruiter",
+  AIPhoneCall: {
+    title: "AI Phone Call",
     description:
       "Automate phone call recruitment interviews with AI-driven workflows.",
     plans: [
@@ -224,10 +185,201 @@ const tabData: TabData = {
     ],
   },
 
+  AIWhatsAppRecruiter: {
+    title: "AI WhatsApp Recruiter",
+    description:
+      "Automate WhatsApp-based recruitment interviews with AI-driven workflows.",
+    plans: [
+      {
+        name: "Starter",
+        price: "$99/Month",
+        limit: "120 WhatsApp Recruit Interviews",
+        description:
+          "For individuals or small teams just getting started with WhatsApp messaging.",
+        features: [
+          "AI sends automated WhatsApp messages to job applicants",
+          "Interview questions generated instantly from your job ad",
+          "Fully automated WhatsApp interview process",
+          "Pre-application link sent to successful applicants",
+          "Change Job Application status automatically based on Interview result.",
+          "Attached ID & qualifications go straight to your CRM",
+          "Option to integrate with AI CV Formatter – saving up to 70% of recruiter admin time",
+        ],
+      },
+      {
+        name: "Growth",
+        price: "$199/Month",
+        limit: "250 WhatsApp Recruit Interviews",
+        description:
+          "Ideal for growing businesses that need more messaging power and automation features.",
+        features: ["All the features of Starter package, with more interviews"],
+      },
+      {
+        name: "Enterprise",
+        price: "Custom Price & Features",
+        cta: "Request a call",
+        description:
+          "Built for high-volume senders and enterprises that demand performance, reliability, and advanced support.",
+      },
+    ],
+  },
+  AISMSRecruiter: {
+    title: "AI SMS Recruiter",
+    description:
+      "Instantly messages new applicants - Checks skills and right-to-work details - Sends a secure upload link if qualified - Documents flow straight into your CRM - Works 24/7 while you sleep.",
+    plans: [
+      {
+        name: "Starter",
+        price: "$99/Month",
+        limit: "120 WhatsApp Recruit Interviews",
+        description:
+          "For individuals or small teams just getting started with WhatsApp messaging.",
+        features: [
+          "AI sends automated WhatsApp messages to job applicants",
+          "Interview questions generated instantly from your job ad",
+          "Fully automated WhatsApp interview process",
+          "Pre-application link sent to successful applicants",
+          "Change Job Application status automatically based on Interview result.",
+          "Attached ID & qualifications go straight to your CRM",
+          "Option to integrate with AI CV Formatter – saving up to 70% of recruiter admin time",
+        ],
+      },
+      {
+        name: "Growth",
+        price: "$199/Month",
+        limit: "250 WhatsApp Recruit Interviews",
+        description:
+          "Ideal for growing businesses that need more messaging power and automation features.",
+        features: ["All the features of Starter package, with more interviews"],
+      },
+      {
+        name: "Enterprise",
+        price: "Custom Price & Features",
+        cta: "Request a call",
+        description:
+          "Built for high-volume senders and enterprises that demand performance, reliability, and advanced support.",
+      },
+    ],
+  },
+  AIClientLeadGeneration: {
+    title: "AI Client Lead Generation",
+    description:
+      "Intelligently identifies new opportunities. Rekindles old connections within your CRM. Sends personalised content and messages. Automatically schedules meeting invites. Warms leads 24/7 while you sleep.",
+    plans: [
+      {
+        name: "Starter",
+        price: "$99/Month",
+        limit: "120 WhatsApp Recruit Interviews",
+        description:
+          "For individuals or small teams just getting started with WhatsApp messaging.",
+        features: [
+          "AI sends automated WhatsApp messages to job applicants",
+          "Interview questions generated instantly from your job ad",
+          "Fully automated WhatsApp interview process",
+          "Pre-application link sent to successful applicants",
+          "Change Job Application status automatically based on Interview result.",
+          "Attached ID & qualifications go straight to your CRM",
+          "Option to integrate with AI CV Formatter – saving up to 70% of recruiter admin time",
+        ],
+      },
+      {
+        name: "Growth",
+        price: "$199/Month",
+        limit: "250 WhatsApp Recruit Interviews",
+        description:
+          "Ideal for growing businesses that need more messaging power and automation features.",
+        features: ["All the features of Starter package, with more interviews"],
+      },
+      {
+        name: "Enterprise",
+        price: "Custom Price & Features",
+        cta: "Request a call",
+        description:
+          "Built for high-volume senders and enterprises that demand performance, reliability, and advanced support.",
+      },
+    ],
+  },
+  AICandidateSkillSearch: {
+    title: "AI Candidate Skill Search",
+    description:
+      "AI scans your CRM to rediscover skilled candidates you already own. Reduce ad spend and time-to-hire with automated skill matching to job vacancy.",
+    plans: [
+      {
+        name: "Starter",
+        price: "$99/Month",
+        limit: "120 WhatsApp Recruit Interviews",
+        description:
+          "For individuals or small teams just getting started with WhatsApp messaging.",
+        features: [
+          "AI sends automated WhatsApp messages to job applicants",
+          "Interview questions generated instantly from your job ad",
+          "Fully automated WhatsApp interview process",
+          "Pre-application link sent to successful applicants",
+          "Change Job Application status automatically based on Interview result.",
+          "Attached ID & qualifications go straight to your CRM",
+          "Option to integrate with AI CV Formatter – saving up to 70% of recruiter admin time",
+        ],
+      },
+      {
+        name: "Growth",
+        price: "$199/Month",
+        limit: "250 WhatsApp Recruit Interviews",
+        description:
+          "Ideal for growing businesses that need more messaging power and automation features.",
+        features: ["All the features of Starter package, with more interviews"],
+      },
+      {
+        name: "Enterprise",
+        price: "Custom Price & Features",
+        cta: "Request a call",
+        description:
+          "Built for high-volume senders and enterprises that demand performance, reliability, and advanced support.",
+      },
+    ],
+  },
+  AIWhatsAppPicturetoCRM: {
+    title: "AI WhatsApp Picture to CRM",
+    description:
+      "Picture received: ID & Quals. AI automatically scans and extracts details. Verifies document accuracy and format. Files everything perfectly in your CRM. Fast, secure, and 24/7 automated.",
+    plans: [
+      {
+        name: "Starter",
+        price: "$99/Month",
+        limit: "120 WhatsApp Recruit Interviews",
+        description:
+          "For individuals or small teams just getting started with WhatsApp messaging.",
+        features: [
+          "AI sends automated WhatsApp messages to job applicants",
+          "Interview questions generated instantly from your job ad",
+          "Fully automated WhatsApp interview process",
+          "Pre-application link sent to successful applicants",
+          "Change Job Application status automatically based on Interview result.",
+          "Attached ID & qualifications go straight to your CRM",
+          "Option to integrate with AI CV Formatter – saving up to 70% of recruiter admin time",
+        ],
+      },
+      {
+        name: "Growth",
+        price: "$199/Month",
+        limit: "250 WhatsApp Recruit Interviews",
+        description:
+          "Ideal for growing businesses that need more messaging power and automation features.",
+        features: ["All the features of Starter package, with more interviews"],
+      },
+      {
+        name: "Enterprise",
+        price: "Custom Price & Features",
+        cta: "Request a call",
+        description:
+          "Built for high-volume senders and enterprises that demand performance, reliability, and advanced support.",
+      },
+    ],
+  },
+
   AICVFormatter: {
     title: "AI CV Formatter",
     description:
-      "Format CVs with powerful AI models to highlight key information and remove clutter.",
+      "Automatically removes contact details. Enhances wording for professionalism. Adds your company logo and layout. Creates a consistent, branded format. Submit polished CVs fast.",
     plans: [
       {
         name: "Starter",
@@ -266,7 +418,7 @@ const tabData: TabData = {
 
   AIGDPRCompliance: {
     title: "AI GDPR Compliance",
-    description: "Ensure compliance with GDPR regulations effortlessly.",
+    description: "Achieve 100% GDPR compliance effortlessly. AI automatically contacts candidates. Updates and cleans your CRM records. Ensures full data protection and accuracy. Works 24/7 to keep you compliant.",
     plans: [
       {
         name: "Starter",
@@ -304,8 +456,8 @@ const tabData: TabData = {
   },
 
   AIAWRCompliance: {
-    title: "AWR Compliance",
-    description: "Assist with AWR compliance processes efficiently.",
+    title: "AI AWR Compliance (UK)",
+    description: "Maintain complete Agency Workers Regulations compliance effortlessly. Our intelligent system proactively communicates with companies, ensuring your business.",
     plans: [
       {
         name: "Starter",

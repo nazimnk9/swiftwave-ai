@@ -186,7 +186,7 @@ const ModulesSection = () => {
 const modules = [
   {
     uid: "AI-Phone-Call-Recruiter",
-    tabid: "AIPhoneCallRecruiter",
+    tabid: "AIPhoneCall",
     title: "AI Phone Call",
     description:
       "When applicants don’t respond to WhatsApp, our AI automatically calls them, confirms their qualifications, and instantly sends a text to register if they’re eligible.",

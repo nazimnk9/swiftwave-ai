@@ -25,26 +25,58 @@ const AppsPage: FC = () => {
 const appInfo = [
   {
     id: "1",
-    uid: "AI-WhatsApp-Recruiter",
-    title: "AI WhatsApp Recruiter",
-    description:
-      "Turn WhatsApp into your smartest recruiter. Our AI WhatsApp Recruiter engages candidates the moment they apply for a job — conducting structured, real-time interview conversations via WhatsApp. It asks qualifying questions, assesses suitability, collects required documents, and syncs the entire process with Business CRM automatically. No more phone-tag or email delays — just instant, 24/7 recruitment on the platform candidates already use. Perfect for modern recruitment teams seeking speed, consistency, and engagement at scale.",
-    image: "/apps/ai-whatsapp-chatbot.png",
-  },
-  {
-    id: "2",
     uid: "AI-Phone-Call-Recruiter",
-    title: "AI Phone Call Recruiter",
+    title: "AI Phone Call",
     description:
-      "Revolutionize interviews with our AI-powered phone call bot. As soon as a candidate applies, the system places a professional, natural-sounding call to the applicant's phone and conducts a live automated interview — just like a recruiter would. It asks pre-configured screening questions, captures responses, and logs everything back into Business CRM. This tool not only saves time, but ensures no applicant is ever missed. It's like having a 24/7 voice-based recruiter handling your first-round interviews automatically.",
+      "When applicants don’t respond to WhatsApp, our AI automatically calls them, confirms their qualifications, and instantly sends a text to register if they’re eligible.",
     image: "/apps/ai-telephone-call.png",
   },
   {
+    id: "2",
+    uid: "AI-WhatsApp-Recruiter",
+    title: "AI WhatsApp Recruiter",
+    description:
+      "Recruits 24/7 while you sleep. Our automated workflow streamlines the journey from candidate selection to onboarding — saving recruiters up to 50% of their time.",
+    image: "/apps/ai-whatsapp-chatbot.png",
+  },
+  {
     id: "3",
+    uid: "AI-SMS-Recruiter",
+    title: "AI SMS Recruiter",
+    description:
+      "Instantly messages new applicants - Checks skills and right-to-work details - Sends a secure upload link if qualified - Documents flow straight into your CRM - Works 24/7 while you sleep.",
+    image: "/apps/ai_sms.png",
+  },
+  {
+    id: "4",
+    uid: "AI-Client-Lead-Generation",
+    title: "AI Client Lead Generation",
+    description:
+      "Intelligently identifies new opportunities. Rekindles old connections within your CRM. Sends personalised content and messages. Automatically schedules meeting invites. Warms leads 24/7 while you sleep.",
+    image: "/apps/ai-client-lead-generation.png",
+  },
+  {
+    id: "5",
+    uid: "AI-Candidate-Skill-Search",
+    title: "AI Candidate Skill Search",
+    description:
+      "AI scans your CRM to rediscover skilled candidates you already own. Reduce ad spend and time-to-hire with automated skill matching to job vacancy.",
+    image: "/apps/ai-ocr-skill-search.png",
+  },
+  {
+    id: "6",
+    uid: "AI-WhatsApp-Picture-to-CRM",
+    title: "AI WhatsApp Picture to CRM",
+    description:
+      "Picture received: ID & Quals. AI automatically scans and extracts details. Verifies document accuracy and format. Files everything perfectly in your CRM. Fast, secure, and 24/7 automated.",
+    image: "/apps/AI_WhatsApp_Picture_to_CRM.png",
+  },
+  {
+    id: "7",
     uid: "AI-CV-Formatter",
     title: "AI CV Formatter",
     description:
-      "Say goodbye to time-consuming manual CV formatting. Our AI CV Formatter takes raw candidate resumes and instantly transforms them into professionally branded, client-ready templates. Whether you're standardizing layout, hiding personal details, or matching client preferences, our system does it all in seconds. Integrated with Business CRM, formatted CVs can be pushed directly to client submissions, helping your team look polished and consistent — every time.",
+      "Automatically removes contact details. Enhances wording for professionalism. Adds your company logo and layout. Creates a consistent, branded format. Submit polished CVs fast.",
     image: "/apps/ai-cv-formatting.png",
   },
   {
@@ -52,15 +84,15 @@ const appInfo = [
     uid: "AI-GDPR-Compliance",
     title: "AI GDPR Compliance",
     description:
-      "Managing GDPR obligations manually is risky and time-consuming. Our AI GDPR makes compliance effortless by automating consent tracking, right-to-erasure workflows, data retention policies, and audit logs. It continuously monitors candidate interactions and flags any actions that could breach data protection rules. Integrated tightly with your Business CRM data, it ensures your recruitment operations remain secure, compliant, and fully transparent.",
+      "Achieve 100% GDPR compliance effortlessly. AI automatically contacts candidates. Updates and cleans your CRM records. Ensures full data protection and accuracy. Works 24/7 to keep you compliant.",
     image: "/apps/ai-gdpr.png",
   },
   {
     id: "5",
     uid: "AI-AWR-Compliance",
-    title: "AWR Compliance",
+    title: "AI AWR Compliance (UK)",
     description:
-      "Stay ahead of AWR (Agency Worker Regulations) compliance without lifting a finger. Our AI-powered AWR Compliance automatically tracks qualifying periods for each candidate, manages alerts for upcoming compliance deadlines, and ensures your Business CRM records are up to date. Whether you're handling temporary workers, contractors, or hybrid placements — this tool gives you full visibility and control over every assignment's legal status.",
+      "Maintain complete Agency Workers Regulations compliance effortlessly. Our intelligent system proactively communicates with companies, ensuring your business.",
     image: "/apps/ai-awr.png",
   },
 ];

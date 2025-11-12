@@ -15,8 +15,12 @@ const AppsCard: FC<AppsCardProps> = ({ id, cardInfo }) => {
 
   // Map app UID to PricingPage tab key
   const tabKeyMap: { [key: string]: string } = {
-    "AI-WhatsApp-Recruiter": "AIWhatsAppRecruiter",
     "AI-Phone-Call-Recruiter": "AIPhoneCallRecruiter",
+    "AI-WhatsApp-Recruiter": "AIWhatsAppRecruiter",
+    "AI-SMS-Recruiter": "AISMSRecruiter",
+    "AI-Client-Lead-Generation": "AIClientLeadGeneration",
+    "AI-Candidate-Skill-Search": "AICandidateSkillSearch",
+    "AI-WhatsApp-Picture-to-CRM": "AIWhatsAppPicturetoCRM",
     "AI-CV-Formatter": "AICVFormatter",
     "AI-GDPR-Compliance": "AIGDPRCompliance",
     "AI-AWR-Compliance": "AIAWRCompliance",
