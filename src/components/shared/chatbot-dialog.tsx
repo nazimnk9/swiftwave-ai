@@ -1248,7 +1248,7 @@ const ChatbotDialog: React.FC<ChatbotDialogProps> = ({ isOpen, onClose }) => {
   const messagesContainerRef = useRef<HTMLDivElement>(null)
   const [isInitialLoad, setIsInitialLoad] = useState(true)
   const [isUserScrolling, setIsUserScrolling] = useState(false)
-  const scrollTimeoutRef = useRef<NodeJS.Timeout>()
+  //const scrollTimeoutRef = useRef<NodeJS.Timeout>()
   const lastMessageCountRef = useRef<number>(0)
 
   // Check if user is near bottom of chat
