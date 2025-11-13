@@ -75,6 +75,7 @@ export function useSessionStorage<T>(key: string, initialValue: T): [T, (value: 
   const [isClient, setIsClient] = useState(false)
 
   // Initialize from session storage on client side
+  // Initialize from session storage on client side
   useEffect(() => {
     setIsClient(true)
     try {
@@ -94,7 +95,9 @@ export function useSessionStorage<T>(key: string, initialValue: T): [T, (value: 
     } catch (error) {
       console.error(`Error reading from session storage: ${storageKey}`, error)
     }
-  }, [storageKey, initialValue])
+      // ✅ only run on mount or key change
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [storageKey])
 
   // Save to session storage whenever value changes
   const setValue = (value: T) => {
