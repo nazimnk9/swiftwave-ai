@@ -78,7 +78,7 @@ const slides = [
   {
     title: "Revolutionising\nRecruitment",  // Revolutionising Recruitment
     description:
-      "Our AI Platform runs 24/7 — Auto-formats CVs, Recruits & Ensures Compliance — from just $49/month!",
+      "Meet Your 24/7 Recruiter — Driving Sales Higher!\nSwiftwave.AI works while you sleep — verifying applicants, formatting CVs, and loading ID & qualifications straight into your CRM. Faster submissions - Less admin.",
     buttonText1: "Start Free Trial",
     buttonText2: "Check Apps",
     imageSrc: "/hero/hero2.png",
