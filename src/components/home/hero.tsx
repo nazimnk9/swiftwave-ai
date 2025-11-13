@@ -49,9 +49,9 @@ export default function HeroSection() {
 
 const slides = [
   {
-    title: "Swiftwave.AI Platform\nMeet Your Recruiter\nThat Works 24/7",
+    title: "Take Your Sales to the Next Level.\nWhile your sales team sleeps, ",
     description:
-      "Consultant sleeping → Al engine working → Formatted CV, ID, and qualifications stream directly into your CRM!",
+      "Swiftwave.AI finds warm leads, books meetings, and syncs them into your CRM — ready to close.",
     buttonText1: "Start Free Trial",
     buttonText2: "Check Apps",
     imageSrc: "/new_pics/1_edited_noor_v1.png",  // hero/caro_1.png
