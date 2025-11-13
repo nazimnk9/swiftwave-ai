@@ -49,36 +49,36 @@ export default function HeroSection() {
 
 const slides = [
   {
-    title: "Take Your Sales to the Next Level.\nWhile your sales team sleeps, ",
+    title: "AI Lead Generator",
     description:
-      "Swiftwave.AI finds warm leads, books meetings, and syncs them into your CRM — ready to close.",
+      "Sales team sleeping → 24/7 warm lead capture → auto to CRM → +50% more sales ✓",
     buttonText1: "Start Free Trial",
     buttonText2: "Check Apps",
     imageSrc: "/new_pics/1_edited_noor_v1.png",  // hero/caro_1.png
     imageAlt: "AI Professional",
   },
   {
-    title: "Swiftwave.AI Platform\nSmart AI Automation\nfor Recruitment & HR",
+    title: "AI Recruiter",
     description:
-      "Achieve 50% cost savings and 50% business growth through our intelligent automation platform.",
+      "24/7 auto-screen → auto CV format → auto docs to CRM → submission-ready ✓",
     buttonText1: "Start Free Trial",
     buttonText2: "Check Apps",
     imageSrc: "/new_pics/new_edited_noor_v3.png",    // /hero.png
     imageAlt: "AI Professional",
   },
   {
-    title: "Boost Your\nBusiness with\nSwiftwave.AI Modules",
+    title: "AI Skill Search",
     description:
-      "Automate Repetitive Tasks. Increase Profitability. Ensure 100% Compliance.",
+      "Instant skill search → auto docs updated → CRM-ready → 100% compliance ✓",
     buttonText1: "Start Free Trial",
     buttonText2: "Check Apps",
     imageSrc: "/new_pics/4_edit_noor.png",  // /hero/hero2.png
     imageAlt: "AI Professional",
   },
   {
-    title: "Revolutionising\nRecruitment",  // Revolutionising Recruitment
+    title: "AI Cost Savings",  // Revolutionising Recruitment
     description:
-      "Meet Your 24/7 Recruiter — Driving Sales Higher!\nSwiftwave.AI works while you sleep — verifying applicants, formatting CVs, and loading ID & qualifications straight into your CRM. Faster submissions - Less admin.",
+      "AI 24/7 → 50% less admin → fewer staff needed → lower costs → higher profit ✓",
     buttonText1: "Start Free Trial",
     buttonText2: "Check Apps",
     imageSrc: "/hero/hero2.png",

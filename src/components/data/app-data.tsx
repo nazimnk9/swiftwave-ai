@@ -6,7 +6,7 @@ export const appData = [
     hero: {
       badge: "App • AI Phone Call",
       title: "Instant Phone Interviews on Autopilot",
-      highlight: "Automatically",
+      //highlight: "Automatically",
       description:
         "Call applicants the moment they apply. Our AI conducts structured voice interviews, transcribes answers in real time, scores candidates, and updates your Business CRM records—so your team advances the right people faster.",
       buttons: [
@@ -133,10 +133,10 @@ export const appData = [
     uid: "AI-WhatsApp-Recruiter",
     hero: {
       badge: "App • AI WhatsApp Recruiter",
-      title: "Instant WhatsApp Interviews for Every Applicant",
-      highlight: "Automatically",
+      title: "Automated WhatsApp Interviews — Instantly.",
+      //highlight: "Automatically",
       description:
-        "Screen, score, and schedule candidates automatically over WhatsApp. Our AI runs structured chat interviews, asks knockout questions, extracts key data, and syncs results straight to your Business CRM records—so you can move faster with better signal.",
+        "Swiftwave.AI connects with every applicant in real time, running structured chat interviews that screen, score, and schedule candidates automatically while your consultant sleeps! It asks knockout questions, texts a secure link for applicants to submit ID and qualifications, extracts key data, and syncs everything straight into your Business CRM — enabling faster CV submissions, quicker placements, and measurable sales growth.",
       buttons: [
         { label: "How it works", href: "#how-it-works", variant: "primary" },
         { label: "Check Pricing", href: "/pricing", variant: "outline" },
@@ -260,10 +260,10 @@ export const appData = [
     uid: "AI-SMS-Recruiter",
     hero: {
       badge: "App • AI SMS Recruiter",
-      title: "Instant WhatsApp Interviews for Every Applicant",
-      highlight: "Automatically",
+      title: "Smart, Automated Text Recruiting",
+      //highlight: "Automatically",
       description:
-        "Screen, score, and schedule candidates automatically over WhatsApp. Our AI runs structured chat interviews, asks knockout questions, extracts key data, and syncs results straight to your Business CRM records—so you can move faster with better signal.",
+        "Swiftwave.AI engages applicants automatically — running structured SMS interviews, asking key screening questions, scoring responses, and scheduling candidates while your consultants sleep! Automatically sends a secure link to upload ID and qualifications, syncing verified data straight into your CRM for faster placements, stronger conversions, enabling faster CV submissions, quicker placements and measurable sales growth 24/7.",
       buttons: [
         { label: "How it works", href: "#how-it-works", variant: "primary" },
         { label: "Check Pricing", href: "/pricing", variant: "outline" },
@@ -387,10 +387,10 @@ export const appData = [
     uid: "AI-Client-Lead-Generation",
     hero: {
       badge: "App • AI Client Lead Generation",
-      title: "Instant WhatsApp Interviews for Every Applicant",
-      highlight: "Automatically",
+      title: "Automated Client Engagement — 24/7",
+      //highlight: "Automatically",
       description:
-        "Screen, score, and schedule candidates automatically over WhatsApp. Our AI runs structured chat interviews, asks knockout questions, extracts key data, and syncs results straight to your Business CRM records—so you can move faster with better signal.",
+        "Swiftwave.AI identifies warm leads from your CRM and candidate data, messaging prospects automatically with brochures, service literature, and meeting links. It tracks replies, syncs every interaction straight into CRM Opportunities, and keeps your consultants supplied with pre-warmed leads ready to close. The result — faster meetings, stronger conversions, and measurable sales growth 24/7.",
       buttons: [
         { label: "How it works", href: "#how-it-works", variant: "primary" },
         { label: "Check Pricing", href: "/pricing", variant: "outline" },
@@ -514,10 +514,10 @@ export const appData = [
     uid: "AI-Candidate-Skill-Search",
     hero: {
       badge: "App • AI Candidate Skill Search",
-      title: "Instant WhatsApp Interviews for Every Applicant",
-      highlight: "Automatically",
+      title: "Smart, Automated Talent Matching",
+      //highlight: "Automatically",
       description:
-        "Screen, score, and schedule candidates automatically over WhatsApp. Our AI runs structured chat interviews, asks knockout questions, extracts key data, and syncs results straight to your Business CRM records—so you can move faster with better signal.",
+        "Swiftwave.AI activates instantly when a new job goes live — searching your CRM automatically to identify candidates with the right skills, qualifications, and availability while your consultants sleep! It analyses location and distance to match candidates closest to the job, ranking profiles and preparing client-ready shortlists automatically. Verified matches flow straight into your CRM, enabling faster placements, stronger client delivery, and measurable sales growth 24/7.",
       buttons: [
         { label: "How it works", href: "#how-it-works", variant: "primary" },
         { label: "Check Pricing", href: "/pricing", variant: "outline" },
@@ -641,10 +641,10 @@ export const appData = [
     uid: "AI-WhatsApp-Picture-to-CRM",
     hero: {
       badge: "App • AI WhatsApp Picture to CRM",
-      title: "Instant WhatsApp Interviews for Every Applicant",
-      highlight: "Automatically",
+      title: "Smart, Automated Document Capture.",
+      //highlight: "Automatically",
       description:
-        "Screen, score, and schedule candidates automatically over WhatsApp. Our AI runs structured chat interviews, asks knockout questions, extracts key data, and syncs results straight to your Business CRM records—so you can move faster with better signal.",
+        "Swiftwave.AI allows new applicants and existing candidates to send photos of their ID, Right to Work, and qualification documents directly through WhatsApp while your consultants sleep! The AI reads, verifies, and uploads data and images straight into your CRM candidate profiles, keeping records accurate and compliant automatically. Every update flows instantly to your system, enabling faster onboarding, zero manual admin, and stronger compliance 24/7.",
       buttons: [
         { label: "How it works", href: "#how-it-works", variant: "primary" },
         { label: "Check Pricing", href: "/pricing", variant: "outline" },
@@ -769,7 +769,7 @@ export const appData = [
     hero: {
       badge: "App • AI CV Formatter",
       title: "Perfectly Formatted CVs in Seconds",
-      highlight: "Automatically",
+      //highlight: "Automatically",
       description:
         "Turn messy resumes into clean, branded CVs automatically. Our AI extracts skills and history, normalizes titles and dates, applies your templates, and updates Business CRM—ready to share with clients instantly.",
       buttons: [
@@ -892,7 +892,7 @@ export const appData = [
     hero: {
       badge: "App • AI GDPR Compliance",
       title: "Collect & Track Candidate Consent",
-      highlight: "Automatically",
+      //highlight: "Automatically",
       description:
         "Send compliant consent requests from Swiftwave.AI via email, capture YES/NO replies instantly, and maintain an immutable audit trail synced with your Business CRM records.",
       buttons: [
@@ -1014,7 +1014,7 @@ export const appData = [
     hero: {
       badge: "App • AI AWR Compliance (UK)",
       title: "Automate AWR Tracking & Stay Compliant",
-      highlight: "Automatically",
+      //highlight: "Automatically",
       description:
         "Stay ahead of AWR (Agency Worker Regulations) without lifting a finger. Our AI-powered assistant automatically tracks qualifying periods for each candidate, manages alerts for upcoming compliance deadlines, and ensures your Business CRM records are up to date—across temporary workers, contractors, and hybrid placements.",
       buttons: [
