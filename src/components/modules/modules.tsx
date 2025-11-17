@@ -164,14 +164,13 @@ const ModulesSection = () => {
 
       <div className="relative z-10">
         <h2 className="mb-10 bg-gradient-to-r from-[#9e7f29] via-[#ffe185] to-[#9e7f29] bg-clip-text text-4xl font-bold text-transparent [background-size:100%_100%]">
-          Our AI Modules
+          Transform Recruitment & HR. Supercharge Your Growth.
         </h2>
         <p className="mb-8 text-text">
-          Our AI-powered solutions significantly reduce your overhead costs while
-          accelerating hiring by 100% with full compliance. We enhance efficiency
-          across your operations, and with our upcoming sales modules and advanced
-          technology, you will grow your business faster than ever. Explore our
-          modules below to place your order.
+          Our AI solutions cut costs, speed up hiring, streamline HR, and deliver 100% compliance—every time.
+          From automated sourcing to real-time communication and advanced sales tech, we make your operations unstoppable.
+          Win more clients. Fill roles faster. Scale beyond traditional recruitment and HR teams.
+          Explore our modules below and place your order—future-ready starts here.
         </p>
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
           {modules.map((module, index) => (
